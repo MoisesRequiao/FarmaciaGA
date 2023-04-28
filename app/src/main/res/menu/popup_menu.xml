@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Cadastrar Produtos"
+    android:id="@+id/cadastrar"/>
+    <item
+        android:title="Consultar Produtos"
+        android:id="@+id/consultar"/>
+    <item
+        android:title="Sair"
+        android:id="@+id/sair"/>
+
+</menu>
